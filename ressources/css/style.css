@@ -4,3 +4,9 @@ body{
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
+
+.header--main{
+    color: white;
+    font-weight: normal;
+}
